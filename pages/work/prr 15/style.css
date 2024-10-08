@@ -1,0 +1,39 @@
+body {
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+   
+}
+  
+article{
+    height: 100%;
+    width: 1320px;
+    margin: 50px;
+}
+.cfr{
+    height: 612px;
+    width: 489px;
+    padding:10px;
+}
+.card{
+    height: 607px;
+    width: 816px;
+    margin-top: -620px;
+    margin-left:520px;
+   
+    
+}
+.text{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.text1{
+    font-size: 24px;
+    font-weight: 400;
+}
+footer{
+    margin-left: 490px;
+    color: gray;
+    font-size: 24px;
+    font-weight: 400;
+}

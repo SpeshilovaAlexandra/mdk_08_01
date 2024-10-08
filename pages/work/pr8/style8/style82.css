@@ -1,0 +1,38 @@
+.block1, .block2, .block3, header{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid rgb(236, 72, 217);
+}
+img,p{
+    padding: 5px;
+}
+div a{
+    text-align: right;
+    margin: 0;
+}
+h2{
+    padding: 5px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    background:  rgb(232, 30, 208);
+}
+li{
+    display: inline-block;
+}
+li a:hover{
+    background: rgb(241, 55, 176);
+    color: black;
+}
+li,li a{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+}

@@ -1,0 +1,34 @@
+body{
+    background: #dad8d8;
+}
+.hapka{
+    height:100%;
+    width: 100%;
+    background: rgb(247, 249, 249);   
+}
+.logo{
+    height: 25px;
+    width: 70px;
+    font-size: 20px;
+    margin-left: 10%;
+    
+}
+.logo p{
+    padding-top: 30%;
+}
+.text2 {
+    display: inline-flex;
+    margin-top: -20px;
+    margin-left:40% ;
+    
+}
+.text2 p{
+    padding-right:50px;
+}
+
+.navigacia{
+    background: url(img/);
+}
+.opicanue{
+    text-align: center;
+}

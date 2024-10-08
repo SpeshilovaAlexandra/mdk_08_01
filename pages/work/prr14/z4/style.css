@@ -1,0 +1,36 @@
+body {
+    font: 600 14px
+}
+.card-con {
+    cursor: pointer;
+    height: 150px;
+    perspective: 600;
+    position: relative;
+    width: 150px;
+}
+.card {
+    height: 100%;
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: all 2s ease-in-out;
+    width: 100%;
+
+}
+.card:hover {
+    transform: rotateY(180deg)
+}
+.card .side {
+    backface-visibility: hidden;
+    border-radius: 6px;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+.card .back {
+    background-color:  #eaea;
+    color: rgba(237, 25, 237, 0.667);
+    line-height: 150px;
+    text-align: center;
+    transform: rotateY(180deg);
+}

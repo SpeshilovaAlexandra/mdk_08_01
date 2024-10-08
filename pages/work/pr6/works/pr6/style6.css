@@ -1,0 +1,23 @@
+body {
+    background: #eaea;
+    
+}
+section, article {
+    text-align: left;
+    color: palevioletred;
+}
+img{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+aside {
+   text-align:left;
+   margin: 0 auto;
+   background: rgba(219, 164, 219, 0.667);
+   
+}
+.sidebar, p1 {
+    text-align: left;
+    font-size: 19px;
+}

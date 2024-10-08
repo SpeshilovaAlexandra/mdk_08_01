@@ -1,0 +1,31 @@
+body{
+    background: #eaea;
+}
+.imggg {
+    background-image: url(https://enigme.ru/images/uploads/catalog/17704/big/1645523112.jpg);
+    height: 250px;
+    width: 250px;
+}
+
+
+aside {
+    margin-top: 10px;
+     width: 10%;
+    color: rgba(100, 6, 100, 0.667);
+    background: #eaea;
+   
+}
+aside p, aside h3,aside a {
+    
+    justify-content: right;
+}
+
+aside img {
+    width: 50px;
+    height: 50px;
+    
+}
+.pga{
+    display:flex;
+    justify-content: right;
+}

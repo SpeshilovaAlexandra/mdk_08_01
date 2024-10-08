@@ -1,0 +1,31 @@
+body{
+    background: #eaea;
+    
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: left;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+}
+.img2 {
+    height: 200px;
+    width: 200px;
+}
+.img3 {
+    height: 200px;
+    width: 200px;
+}
+.pic4 {
+    height: 200px;
+    width: 200px;
+}
+.pic5 {
+    height: 200px;
+    width: 200px;
+}

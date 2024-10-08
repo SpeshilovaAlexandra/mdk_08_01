@@ -1,0 +1,20 @@
+body {
+    background: rgb(228, 228, 234);
+    font:600 24px
+}
+.vce {
+    background: #b12bd3;
+    border-radius: 6px;
+    cursor:pointer;
+    height:95px;
+    line-height: 95px;
+    text-align: center;
+    transition-property: background;
+    filter: blur(10px);
+    transition: filter 2s, border 3s;
+    transition-timing-function: linear;
+    width: 95px;
+}
+.vce:hover {
+    filter: blur(0px);
+}

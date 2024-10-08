@@ -1,0 +1,20 @@
+
+img {
+    margin-left: 1px;
+    margin-top: 13px;
+}
+
+article{
+    display:inline-flex;
+    flex-wrap: wrap;
+    margin-right: 134px;
+    margin-top: 121px;
+ }
+.c3, .c4, .c5{
+    margin-left: 666px;
+ }
+
+article, p img{
+    position: relative;
+    bottom: 550px;
+}
